@@ -52,4 +52,4 @@ Azure OpenAI: Recurso para geração de texto e outras tarefas de IA.
 
 ## Conclusão 🎉
 
-Este projeto é um ponto de partida para o desenvolvimento de um tradutor de artigos técnicos poderoso e eficiente. O uso de Azure AI oferece flexibilidade e escalabilidade, permitindo que você crie soluções personalizadas para suas necessidades específicas.
+Este projeto é um ponto de partida para o desenvolvimento de um tradutor de artigos técnicos poderoso e eficiente. O uso de Azure AI oferece flexibilidade e escalabilidade, permitindo a criação de soluções personalizadas para necessidades específicas.
